@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify user can slide through the images in recipe slideshow</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b766b286-279b-45d7-968e-3f5dd9431366</testCaseGuid>
+</TestCaseEntity>
